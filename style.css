@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+div {
+  background-color: white;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+.parent {
+  height: 100%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+}
+
+.center {
+  background-color: white;
+
+  width: 1440px;
+
+  height: 900px;
+}
