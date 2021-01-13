@@ -38,3 +38,7 @@ div {
 
   height: 900px;
 }
+
+#weblab:hover {
+  stroke:blueviolet;
+}
